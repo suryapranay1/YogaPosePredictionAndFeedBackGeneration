@@ -37,6 +37,10 @@ The `output_resources` folder includes:
 - **Pose Model**: Pre-trained model for pose classification.
 - **Sample Data**: Example output files showing feedback for various poses.
 
+- ![image](https://github.com/user-attachments/assets/43a76f05-3bf9-448d-a5ed-bf4c6e7163f5)
+![image](https://github.com/user-attachments/assets/efd97f9b-d993-4329-9b03-f4959d9e7660)
+
+
 ## Technologies Used
 - **MediaPipe**: For real-time pose detection.
 - **Python**: Backend for processing and feedback logic.
